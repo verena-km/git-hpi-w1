@@ -1,2 +1,4 @@
 Lego Technic
 Puzzle
+Raspberry Pi
+Wizard
